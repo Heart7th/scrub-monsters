@@ -2,4 +2,4 @@
 
 在线试玩：https://heart7th.github.io/scrub-monsters/
 
-这里只有打包好的静态页面（Three.js 单文件 HTML）、图标和分享图，由项目里的 `tools/deploy-gh.mjs` 自动发布。
+这里只有打包好的静态页面（Three.js 单文件 HTML）、图标、分享图和关卡插画（`art/`，结算时像素图恢复成它），由项目里的 `tools/deploy-gh.mjs` 自动发布。

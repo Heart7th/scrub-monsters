@@ -1,0 +1,16 @@
+{
+  "name": "刷刷焕新 · 小怪兽版",
+  "short_name": "刷刷焕新",
+  "description": "叫对小怪兽，吃掉脏东西，旧物焕然一新！3D 卡通解压小游戏试玩版。",
+  "lang": "zh-CN",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#cdeefc",
+  "theme_color": "#cdeefc",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
